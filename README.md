@@ -1,2 +1,2 @@
 # blog-using-php-mysql
-with bootstrap simple create delete and update functionalities
+bootstrap blog post snippnet. simple create, delete and update functionalities
